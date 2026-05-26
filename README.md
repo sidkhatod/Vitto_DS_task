@@ -33,5 +33,4 @@ Target Variable:
 ├── notebook.ipynb
 ├── README.md
 ├── writeup.pdf
-├── requirements.txt
-└── figures/
+└── requirements.txt
